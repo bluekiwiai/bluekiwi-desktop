@@ -2,3 +2,4 @@
 *.blockmap
 *.zip
 SHA256SUMS.txt
+latest*.yml
